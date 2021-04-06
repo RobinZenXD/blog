@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on Robin</title>
-    <link>http://robinzen.fun/tags/test/</link>
+    <link>https://robinzen.fun/tags/test/</link>
     <description>Recent content in test on Robin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://robinzen.fun/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://robinzen.fun/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>http://robinzen.fun/post/test/</link>
+      <link>https://robinzen.fun/post/test/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://robinzen.fun/post/test/</guid>
+      <guid>https://robinzen.fun/post/test/</guid>
       <description>test</description>
     </item>
     
