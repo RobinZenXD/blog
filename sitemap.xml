@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://robinzen.cn/</loc>
+    <loc>http://robinzen.fun/</loc>
     <lastmod>2019-08-25T00:52:59+03:00</lastmod>
   </url><url>
-    <loc>http://robinzen.cn/about/</loc>
+    <loc>http://robinzen.fun/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://robinzen.cn/categories/</loc>
+    <loc>http://robinzen.fun/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://robinzen.cn/post/</loc>
+    <loc>http://robinzen.fun/post/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://robinzen.cn/tags/</loc>
+    <loc>http://robinzen.fun/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://robinzen.cn/tags/test/</loc>
+    <loc>http://robinzen.fun/tags/test/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://robinzen.cn/categories/test/</loc>
+    <loc>http://robinzen.fun/categories/test/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://robinzen.cn/post/test/</loc>
+    <loc>http://robinzen.fun/post/test/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
